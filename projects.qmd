@@ -5,18 +5,15 @@ output:
     self_contained: False
 ---
 
-# Welcome to My STAT-515 Mid Project
-------------------------------------------------------------------------
+## \# Welcome to My STAT-515 Mid Project
 
 Here is the Youtube link: -
 
-{{< video add you youtube video link here >}}
+{{< video https://youtu.be/oRzrxBoEOOs >}}
 
+## Title: Using R to Redesign Statistical Graphs:
 
-## Title: Using R to Redesign Statistical Graphs: 
-
-
-Data visualization is the graphical representation of data to help people understand the significance of data by summarizing and presenting it in a visual form. It enables decision-makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. Through the use of charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. hjkafjjjfgdj
+Data visualization is the graphical representation of data to help people understand the significance of data by summarizing and presenting it in a visual form. It enables decision-makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. Through the use of charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
 Data manipulation refers to the process of changing data to make it easier to read or to prepare it for further analysis. It involves various operations such as sorting, filtering, aggregating, and transforming data to meet specific requirements. Data manipulation is often done using programming languages like Python, R, or SQL, and tools like Excel or pandas. The goal of data manipulation is to ensure that data is in a format that is suitable for analysis and can provide meaningful insights.
 
@@ -34,10 +31,7 @@ New Insights: Redesigning visualizations in R can lead to the discovery of new i
 
 Overall, in R programming, redesigning visualizations is essential for ensuring that they effectively communicate data, are tailored to the audience, and provide meaningful insights. R's flexibility and extensive visualization capabilities make it a powerful tool for creating and redesigning visualizations to meet these goals.
 
-
- 
- The STAT 515 course provided us with valuable insights into the power of data visualization tools. It highlighted how visualization can effectively communicate complex data and uncover meaningful insights. This course emphasized the importance of using tools like R to create impactful visualizations that can convey information clearly and engage audiences effectively.
-
+The STAT 515 course provided us with valuable insights into the power of data visualization tools. It highlighted how visualization can effectively communicate complex data and uncover meaningful insights. This course emphasized the importance of using tools like R to create impactful visualizations that can convey information clearly and engage audiences effectively.
 
 #References: -
 
@@ -45,7 +39,6 @@ Overall, in R programming, redesigning visualizations is essential for ensuring 
 
 <a href="https://howmuch.net/sources/top-100-most-valuable-brands-2020" target="_blank">https://howmuch.net/sources/top-100-most-valuable-brands-2020</a>
 
-
-#Dataset of Visualizing the maximum Gender pay gap across USA:- 
+#Dataset of Visualizing the maximum Gender pay gap across USA:-
 
 <a href="https://howmuch.net/articles/men-vs-women-comparing-income-by-industry" target="_blank">https://howmuch.net/articles/men-vs-women-comparing-income-by-industry</a>
