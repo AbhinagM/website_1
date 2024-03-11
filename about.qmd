@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+I am a highly driven recent graduate with a great interest in the dynamic field of business analytics. I earned a Bachelor of Technology in Mechanical Engineering from the Amrita School of Engineering in Bengaluru, India, with a CGPA of 6.79/10.
+
+I have prior expertise in content writing, project management, and data analytics using technologies like as Power BI and SQL. I also have certifications in Business Analytics, SQL for Data Analytics, Power BI, and Financial Modeling and Valuation.
+
+I am an active sports club member, the captain of my school's cricket team, and have served as a student ambassador and class leader. I've also volunteered for community service and taken part in events like the Mini-Drone Competition.
+
+I'm enthusiastic to keep learning and make a difference in the area of data analytics.

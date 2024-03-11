@@ -1,0 +1,15 @@
+---
+title: "Abhinag Reddy Machireddy"
+image: Abhinag Reddy Photo.jpeg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+format: html
+editor: visual
+---
+
+## Welcome to my website
+
+Hello and welcome to my website! I am a graduate student at George Mason University, pursuing a Master's degree in Data Analytics Engineering. I am enthusiastic about using data-driven insights to promote organizational performance. Explore my portfolio to discover more about my qualifications and experiences. Please contact me if you have any queries or would want to collaborate.
